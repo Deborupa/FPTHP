@@ -28,13 +28,14 @@ Insights and Limitations
 •	The dataset's synthetic nature and potential limitations in medical documentation posed challenges in fully addressing the requested analyses.
 •	Proportion of Patients with Specific Psychiatric Diagnoses: Interpretation: This pie chart shows the relative proportion of patients with specific psychiatric diagnoses (36.7%) compared to those without (63.3%). It indicates that over one-third of the patients in the dataset have been diagnosed with specific psychiatric conditions, while the majority do not have any recorded psychiatric diagnoses. 
 ![output_11_2](https://github.com/user-attachments/assets/105a0dc1-31a4-44b9-8bf2-592ec1db5ec3)
-This is the proportional pie chart for the conditions mentioned like depression, schizophrenia and anxiety.
+  This is the proportional pie chart for the conditions mentioned like depression, schizophrenia and anxiety.
 ![newplot](https://github.com/user-attachments/assets/a60ac88d-3eb3-4391-9e28-7e4e1c8a803b)
 
 •	Number of Patients with Specific Psychiatric Diagnoses: Interpretation: This bar chart presents the count of patients for different psychiatric diagnoses. Depression has no number of patients, followed by schizophrenia. Only anxiety was present in the dataset. The height of the bars visually highlights the prevalence of these specific psychiatric conditions within the dataset. 
 ![output_20_0](https://github.com/user-attachments/assets/1b58abd5-84a8-4cff-adae-265c5bd682c6)
 •	The age group distribution chart shows the number of patients in different age groups within the dataset. The key insights from this visualization are:
 The 19-64 age group has the highest number of patients, represented by the tallest bar in the chart. This suggests that the majority of patients in the dataset fall into the working-age adult category.The 65+ age group has the second-highest number of patients, indicating a significant elderly population within the dataset.The 11-18 and 0-10 age groups have relatively smaller numbers of patients compared to the older age groups. This implies that the dataset may have fewer patients from the pediatric and adolescent age ranges.
+
  ![output_8_1](https://github.com/user-attachments/assets/d00a3e6c-87b6-4299-9109-804009cb7f2d)
 •	Comparison of Total PHQ-9 Patients vs. Patients with PHQ-9 > 10: Interpretation: This chart compares the total number of patients who had PHQ-9 scores recorded versus the subset of patients with PHQ-9 scores greater than 10. The bar on the right indicates that 57.69% of the total PHQ-9 patients had scores exceeding 10, which is considered a high-risk threshold for depression. This suggests a significant proportion of patients in the dataset are at a higher risk of depression based on their PHQ-9 scores.
  ![output_13_1](https://github.com/user-attachments/assets/bd9c6189-701f-4006-9ad5-3a5c7566d833)
