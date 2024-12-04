@@ -28,6 +28,9 @@ Insights and Limitations
 •	The dataset's synthetic nature and potential limitations in medical documentation posed challenges in fully addressing the requested analyses.
 •	Proportion of Patients with Specific Psychiatric Diagnoses: Interpretation: This pie chart shows the relative proportion of patients with specific psychiatric diagnoses (36.7%) compared to those without (63.3%). It indicates that over one-third of the patients in the dataset have been diagnosed with specific psychiatric conditions, while the majority do not have any recorded psychiatric diagnoses. 
 ![output_11_2](https://github.com/user-attachments/assets/105a0dc1-31a4-44b9-8bf2-592ec1db5ec3)
+This is the proportional pie chart for the conditions mentioned like depression, schizophrenia and anxiety.
+![newplot](https://github.com/user-attachments/assets/a60ac88d-3eb3-4391-9e28-7e4e1c8a803b)
+
 •	Number of Patients with Specific Psychiatric Diagnoses: Interpretation: This bar chart presents the count of patients for different psychiatric diagnoses. Depression has no number of patients, followed by schizophrenia. Only anxiety was present in the dataset. The height of the bars visually highlights the prevalence of these specific psychiatric conditions within the dataset. 
 ![output_20_0](https://github.com/user-attachments/assets/1b58abd5-84a8-4cff-adae-265c5bd682c6)
 •	The age group distribution chart shows the number of patients in different age groups within the dataset. The key insights from this visualization are:
