@@ -41,3 +41,5 @@ The 19-64 age group has the highest number of patients, represented by the talle
  ![output_13_1](https://github.com/user-attachments/assets/bd9c6189-701f-4006-9ad5-3a5c7566d833)
 Overall, these visualizations provide a comprehensive understanding of the mental health landscape within the Synthea dataset. The analysis highlights the prevalence of specific psychiatric conditions, the proportion of high-risk depression patients, and the relative frequency of mental health diagnoses compared to the general patient population. These insights can inform future research and healthcare initiatives focused on addressing mental health challenges.
 
+INTERACTIVE DASHBOARD-
+The interactive dashboard can be accessed by downloading the HTML File that is given. 
